@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Factsheet DQ Monitor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-title">
+      <h1>Factsheet DQ Monitor</h1>
+      <p class="subtitle">Van Lanschot Kempen &mdash; monthly factsheet quality checks</p>
+    </div>
+    <div class="topbar-actions">
+      <div id="summary-pills" class="summary-pills"></div>
+      <button id="fetch-all-btn" class="btn btn-primary">Fetch latest for all funds</button>
+      <button id="upload-btn" class="btn btn-secondary">Upload PDF manually</button>
+    </div>
+  </header>
+
+  <div id="fetch-progress" class="fetch-progress" hidden>
+    <div class="spinner"></div>
+    <span id="fetch-progress-text">Fetching latest factsheets&hellip;</span>
+  </div>
+
+  <main id="dashboard" class="dashboard">
+    <p class="loading">Loading dashboard&hellip;</p>
+  </main>
+
+  <div id="detail-overlay" class="overlay" hidden>
+    <div class="drawer">
+      <button id="detail-close" class="drawer-close" aria-label="Close">&times;</button>
+      <div id="detail-content"></div>
+    </div>
+  </div>
+
+  <div id="upload-overlay" class="overlay" hidden>
+    <div class="drawer upload-drawer">
+      <button id="upload-close" class="drawer-close" aria-label="Close">&times;</button>
+      <h2>Upload a factsheet manually</h2>
+      <p class="muted">Use this if the automatic fetch is unavailable, or to check a PDF before it's published.</p>
+      <label class="field-label" for="upload-isin">Shareclass</label>
+      <input list="isin-options" id="upload-isin" placeholder="Type fund name or ISIN&hellip;" />
+      <datalist id="isin-options"></datalist>
+      <label class="field-label" for="upload-file">PDF file</label>
+      <input type="file" id="upload-file" accept="application/pdf" />
+      <button id="upload-submit" class="btn btn-primary">Analyze</button>
+      <div id="upload-result"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

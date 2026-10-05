@@ -1,0 +1,56 @@
+{
+  "equity": {
+    "expected_page_count": 7,
+    "components": [
+      "Overzicht",
+      "Belangrijkste Kenmerken",
+      "Performance vanaf start",
+      "Rendement in %",
+      "Gegevens aandelenklasse",
+      "Kerncijfers",
+      "Ontwikkelingen",
+      "Portefeuille",
+      "Top 5 hoogste bijdrage",
+      "Top 5 laagste bijdrage",
+      "Top 5 Holdings ESG-rating",
+      "Risico-analyse",
+      "Top 5 belangen",
+      "Geografische spreiding",
+      "Sectorverdeling",
+      "Onze duurzaamheidspijlers",
+      "ESG-Ratings",
+      "Carbon Emission Targets",
+      "Engagement",
+      "Top Engagement Topics",
+      "Duurzaamheidsinformatie",
+      "Risicorendementsprofiel",
+      "Glossary"
+    ]
+  },
+  "credit": {
+    "expected_page_count": 8,
+    "components": [
+      "Overzicht",
+      "Belangrijkste Kenmerken",
+      "Performance vanaf start",
+      "Gegevens aandelenklasse",
+      "Kerncijfers",
+      "Ontwikkelingen",
+      "Portefeuille",
+      "Top 5 Holdings ESG-rating",
+      "Sectorverdeling",
+      "Risico-analyse",
+      "Top 5 belangen",
+      "Looptijdverdeling",
+      "Ratingverdeling",
+      "Onze duurzaamheidspijlers",
+      "ESG-Ratings",
+      "Carbon Emission Targets",
+      "Engagement",
+      "Top Engagement Topics",
+      "Duurzaamheidsinformatie",
+      "Risicorendementsprofiel",
+      "Glossary"
+    ]
+  }
+}

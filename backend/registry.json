@@ -1,0 +1,161 @@
+{
+  "Smallcaps": {
+    "template": "equity",
+    "funds": {
+      "Kempen (Lux) European Small-cap Fund": {
+        "Klasse A": "LU0427934343",
+        "Klasse AN": "LU0927663814",
+        "Klasse B": "LU0636593559",
+        "Klasse BN": "LU0927663905",
+        "Klasse I": "LU0427934699"
+      },
+      "Kempen (Lux) Global Small-cap Fund": {
+        "Klasse A": "LU1078120166",
+        "Klasse AN": "LU1078120596",
+        "Klasse A-USD": "LU2290439434",
+        "Klasse AN-USD": "LU2918483541",
+        "Klasse BN": "LU1078127419",
+        "Klasse I": "LU1078159883",
+        "Klasse I-GBP": "LU1833119990",
+        "Klasse I-USD": "LU1894035184",
+        "Klasse J-USD": "LU1894035267",
+        "Klasse VLK-I": "LU2381874606"
+      },
+      "Kempen Orange Fund NV": {
+        "N/A": "NL0000289627"
+      },
+      "Kempen Oranje Participaties NV": {
+        "N/A": "NL0000440675"
+      }
+    }
+  },
+  "Hoog Dividend": {
+    "template": "equity",
+    "funds": {
+      "Kempen (Lux) European High Dividend Fund": {
+        "Klasse A": "LU0427929939",
+        "Klasse AN": "LU0927663491",
+        "Klasse I": "LU0427930275"
+      },
+      "Kempen (Lux) Global High Dividend Fund": {
+        "Klasse A": "LU0427929343",
+        "Klasse A-CHF": "LU3011756981",
+        "Klasse AN": "LU0927663145",
+        "Klasse AN-CHF": "LU3011757013",
+        "Klasse BN": "LU0927663228",
+        "Klasse BN-CHF": "LU3309619024",
+        "Klasse I": "LU0427929855",
+        "Klasse I-GBP": "LU0873662356",
+        "Klasse J-GBP": "LU0864388870",
+        "Klasse ZJ": "LU1816221482"
+      },
+      "Kempen European High Dividend Fund NV": {
+        "Klasse N": "NL0000293348",
+        "Klasse X": "NL0011843164",
+        "Klasse Y": "NL0011843172"
+      },
+      "Kempen Global High Dividend Fund": {
+        "Klasse N": "NL0006089229",
+        "Klasse X": "NL0011755848",
+        "Klasse Y": "NL0011755855"
+      },
+      "Kempen Sustainable Global High Dividend Fund": {
+        "Klasse N": "NL0014926404",
+        "Klasse Y": "NL0014926438"
+      }
+    }
+  },
+  "Value": {
+    "template": "equity",
+    "funds": {
+      "Kempen (Lux) Global Value Fund": {
+        "Klasse AN": "LU1813857585",
+        "Klasse AN-GBP": "LU3309618992",
+        "Klasse BN": "LU1813857668",
+        "Klasse I": "LU1813857742",
+        "Klasse IX": "LU3206506233",
+        "Klasse IX-GBP": "LU2620963277"
+      }
+    }
+  },
+  "Vastgoed": {
+    "template": "equity",
+    "funds": {
+      "Kempen (Lux) European Property Fund": {
+        "Klasse AN": "LU2743116902",
+        "Klasse BN": "LU2490700841",
+        "Klasse I": "LU2490700924",
+        "Klasse VLK-B": "LU2490701146",
+        "Klasse VLK-I": "LU2490701229"
+      },
+      "Kempen (Lux) Global Property Fund": {
+        "Klasse AN": "LU1114192054",
+        "Klasse B": "LU1127954995",
+        "Klasse I": "LU1114193292",
+        "Klasse I-GBP": "LU1894636262",
+        "Klasse IX": "LU2128453532",
+        "Klasse J": "LU1127955455",
+        "Klasse J-GBP": "LU1894636429",
+        "Klasse JX": "LU2128453888"
+      },
+      "Kempen Global Property Fund NV N": {
+        "N/A": "NL0012044739"
+      }
+    }
+  },
+  "Infrastructuur": {
+    "template": "equity",
+    "funds": {
+      "Kempen (Lux) Global Listed Infrastructure Fund": {
+        "Klasse A": "LU1890810572",
+        "Klasse AN": "LU1890810655",
+        "Klasse AX-GBP": "LU2623953838",
+        "Klasse BN": "LU1890810812",
+        "Klasse BN-GBP": "LU2581462475",
+        "Klasse I": "LU1890810903",
+        "Klasse J-GBP": "LU1890811208"
+      }
+    }
+  },
+  "Credits": {
+    "template": "credit",
+    "funds": {
+      "Kempen (Lux) Euro Credit Fund": {
+        "Klasse A": "LU0630255007",
+        "Klasse AN": "LU0927664200",
+        "Klasse B": "LU0630255189",
+        "Klasse BN": "LU0927664382",
+        "Klasse I": "LU0630255346",
+        "Klasse ID": "LU0772264197",
+        "Klasse IX1": "LU2979641946",
+        "Klasse J": "LU0630255858",
+        "Klasse JD": "LU0772264270",
+        "Klasse VLK-I": "LU2523259567"
+      },
+      "Kempen (Lux) Euro Sustainable Credit Fund": {
+        "Klasse AN": "LU0979490777",
+        "Klasse BN": "LU0979490850",
+        "Klasse I": "LU0986646882",
+        "Klasse IX1": "LU2979642084",
+        "Klasse J": "LU0979491239",
+        "Klasse VLK-I": "LU2387675809"
+      },
+      "Kempen (Lux) Opportunities Bond Fund": {
+        "Klasse A": "LU1624253669",
+        "Klasse A-Dis": "LU3298641625",
+        "Klasse AIX": "LU3298645709",
+        "Klasse AIX-Dis": "LU3298647580",
+        "Klasse AN": "LU1626446964",
+        "Klasse BN": "LU1624254048",
+        "Klasse I": "LU1624254121",
+        "Klasse J": "LU1624254394",
+        "Klasse VLK-I": "LU2381874515",
+        "Klasse Z": "LU3323599590"
+      },
+      "MercLan Bond Fund": {
+        "Klasse F": "NL0015001R95",
+        "Klasse R": "NL0015001RA1"
+      }
+    }
+  }
+}
