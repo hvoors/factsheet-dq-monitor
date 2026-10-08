@@ -1,4 +1,4 @@
-# Factsheet DQ Monitor
+# Factsheet DQ Monitor (update)
 
 A data-quality monitoring dashboard for Van Lanschot Kempen's monthly fund
 factsheets. It fetches the current factsheet PDF for each tracked
